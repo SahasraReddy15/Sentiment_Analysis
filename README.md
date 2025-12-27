@@ -1,4 +1,3 @@
-# Sentiment_Analysis
 # Sentiment Analysis using Machine Learning
 
 A simple machine learning project to classify text sentiment as positive or negative.
