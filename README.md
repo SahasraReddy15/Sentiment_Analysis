@@ -11,6 +11,7 @@ A simple machine learning project to classify text sentiment as positive or nega
 - Python
 - pandas
 - scikit-learn
+- Natural Language Processing
 
 ## Description
 This project demonstrates basic Natural Language Processing techniques such as text vectorization and sentiment classification using a Naive Bayes algorithm.
